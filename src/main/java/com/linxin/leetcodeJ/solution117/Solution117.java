@@ -1,4 +1,4 @@
-package com.linxin.leetcodeJ.sulution117;
+package com.linxin.leetcodeJ.solution117;
 
 import com.google.gson.GsonBuilder;
 
